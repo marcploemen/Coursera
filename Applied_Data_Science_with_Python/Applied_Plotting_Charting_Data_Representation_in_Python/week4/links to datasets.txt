@@ -1,0 +1,11 @@
+link to beroepsbevolking
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=80832NED&D1=a&D2=0&D3=0&D4=1-4&D5=0&D6=0-1%2c5-22&D7=0&D8=a&VW=T
+
+link to BBP
+https://opendata.cbs.nl/ODataApi/OData/81170ned/TypedDataSet
+
+link to totale bevolking
+https://opendata.cbs.nl/ODataApi/OData/37296ned/TypedDataSet
+
+pension
+http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=82571NED&D1=10&D2=0-3,8,13,18,23,28,33,38,43,48,53,58,63,68,73,78,83,88,93,l&HDR=G1&STB=T&VW=T
